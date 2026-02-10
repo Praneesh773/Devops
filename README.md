@@ -1,7 +1,7 @@
 # Daily Food Schedule
 
 ## Morning
-- Milk
+- Milk,Bread
 
 ## Afternoon
 - Rice
